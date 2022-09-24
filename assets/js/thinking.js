@@ -1,3 +1,4 @@
+alert("Hey! Calculator is ready to use!");
 let screen = document.getElementById('screen');
 buttons = document.querySelectorAll('button');
 let screenValue = '';
